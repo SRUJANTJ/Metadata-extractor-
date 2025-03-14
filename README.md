@@ -2,19 +2,19 @@ File  Metadata Extractor
 
 Supported File Formats
 
-                                                                      JPEG (.jpg, .jpeg)
-                                                                      PNG (.png)
-                                                                      TIFF (.tiff)
-                                                                      BMP (.bmp)
-                                                                      GIF (.gif)
-                                                                      WebP (.webp)
-                                                                      HEIC (.heic)
+JPEG (.jpg, .jpeg)
+PNG (.png)
+TIFF (.tiff)
+BMP (.bmp)
+GIF (.gif)
+WebP (.webp)
+HEIC (.heic)
                                                                         
-                                                                      Installation
+Installation
                                                                       
-                                                                      Download the latest release from GitHub Releases.
-                                                                      Extract the downloaded zip file.
-                                                                      Run ImageMetadataExtractor.exe (No installation required).
+Download the latest release from GitHub Releases.
+Extract the downloaded zip file.
+Run ImageMetadataExtractor.exe (No installation required).
 
 
 
